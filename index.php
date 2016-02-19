@@ -1,3 +1,7 @@
+<?php
+	//php stuff here
+?>
+
 <!DOCTYPE html>
 <html>
 	<body>
